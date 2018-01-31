@@ -1,0 +1,168 @@
+/*
+* @Author: Administrator
+* @Date:   2018-01-24 11:35:49
+* @Last Modified by:   Administrator
+* @Last Modified time: 2018-01-31 16:35:24
+*/
+.big_box{
+	width: 267px;
+	height: 533px;
+	background: #000000;
+	border-radius: 24px;
+	margin-left:250px;
+	float: left;
+
+
+
+}
+
+.box_top{
+	width: 260px;
+	height: 49px;
+	background: #000000;
+	margin: 0 auto;
+	border-top-left-radius:19px; 
+	border-top-right-radius:19px; 
+	overflow: hidden;
+
+	
+}
+
+.ganying{
+	width: 21px;
+	height: 10px;
+	background: #4e4e4e;
+	/* float: right; */
+	/* margin-top:6px;
+	margin-right:122px; */
+	margin-left: 122px;
+	margin-top: 6px;
+	border-radius: 3px;
+
+
+}
+.camera_top{
+	width: 12px;
+	height: 12px;
+	border-radius: 50%;
+	margin-left: 61px;
+	margin-top: 2px;
+	background: #a8a8a8;
+	float: left;
+
+}
+.horn{
+	width: 61px;
+	height: 6px;
+	background: #4b4b4b;
+	border-radius: 1px;
+	
+	float:left;
+	margin-top: 5px;
+	margin-left:30px; 
+
+}
+
+
+.box_mid{
+	width: 250px;
+	height: 433px;
+	margin: 0 auto;
+
+}
+/* .jinshu_left{
+	width: 2px;
+	height: 485px;
+	background: #a8a8a6;
+	float: right;
+	margin-top: 24px;
+
+}
+.jinshu_right{
+	width: 2px;
+	height: 485px;
+	background: #a8a8a6;
+	float: right;
+	margin-top: 24px;
+
+} */
+.box_bottom{
+	width: 260px;
+	height: 47px;
+	background: #000000;
+    margin: 0 auto;
+    border-bottom-left-radius:19px; 
+    border-bottom-right-radius:19px; 
+	
+
+}
+.home{
+		width: 27px;
+	    height: 27px;
+	    border-radius: 50%;
+	    /* margin: 0 auto; */
+	    background: #000000;
+	    border: 3px solid #ffffff;
+	    float: left;
+	    margin-left: 115px;
+	    margin-top: 8px;
+
+}
+
+.big_box_bottom{
+	width: 273px;
+	height: 546px;
+	background: #000000;
+	border-radius: 26px;
+ /*    margin-left:130px; */
+/*     margin:250px; */
+	margin-left:250px;
+	float: left;
+
+ 
+ 
+}
+
+.box-botton_top{
+	width: 273px;
+	height: 42px;
+	background: #000000;
+	border-top-left-radius: 26px;
+	border-top-right-radius: 26px;
+
+}
+.camera_bottoon{
+	width: 65px;
+	height:28px;
+    float: left;
+    margin-left: 30px;
+    margin-top: 13px;
+    background: #2a282b;
+    border-radius: 10px;
+    float: left;
+
+}
+.deng{
+	width:  11px;
+	height: 21px;
+	background: #d6d0ba;
+	margin-left:11px;
+	margin-top: 17px;
+	float: left;
+	border-radius: 4px;
+}
+.logo{
+	font-size:20px;
+	font-family: "苹方";
+	text-align: center;
+	color: white;
+	margin-top: 100px;
+}
+.laba{
+	width: 6px;
+	height: 44px;
+	border-radius: 2px;
+	background: #8e8e8e;
+	margin-top: 304px;
+	margin-left: 33px;
+}
